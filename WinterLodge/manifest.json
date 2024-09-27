@@ -1,0 +1,10 @@
+{
+    "name": "WinterLodge",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/347956/WinterLodge",
+    "description": "V64+ Winter plannet with a lodge",
+    "dependencies": [
+  "IAmBatby-LethalLevelLoader-1.3.10",
+  "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
