@@ -34,4 +34,4 @@ Right before crossing the bridge.
 
 ### In the Unity editor
 If you need a general layout of the main path.
->![Editor Scene View](https://raw.githubusercontent.com/347956/WinterLodge/refs/heads/main/Previews/Winter%20Lodge%20Editor%202.png)
+![Editor Scene View](https://raw.githubusercontent.com/347956/WinterLodge/refs/heads/main/Previews/Winter%20Lodge%20Editor%202.png)
